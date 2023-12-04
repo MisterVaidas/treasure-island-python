@@ -15,10 +15,10 @@ Welcome to Treasure Island 1.0, an interactive, text-based adventure game! Set i
 ## Running the Game
 To start your adventure on Treasure Island, follow these simple steps:
 1. Ensure Python 3.x is installed on your computer.
-2. Download the `treasure_island.py` file from this repository.
+2. Download the `main.py` file from this repository.
 3. Open your command line or terminal.
-4. Navigate to the directory where you have saved `treasure_island.py`.
-5. Run the game using the command: `python treasure_island.py`.
+4. Navigate to the directory where you have saved `main.py`.
+5. Run the game using the command: `python main.py`.
 
 ## Game Features
 - **Multiple Choices:** Each step of your journey offers you choices that impact the game's outcome.
